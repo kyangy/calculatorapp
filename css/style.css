@@ -1,0 +1,12 @@
+body p {
+	color: white;
+}
+
+#main-section {
+	width: 250px;
+	height: 250px;
+	display: block;
+	position: absolute;
+	top: 275px;
+	left: 500px;
+}
